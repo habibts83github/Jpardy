@@ -1,0 +1,14 @@
+import "./App.css";
+import Jeopardy from "./Components/Jeopardy";
+import Points from "./Components/Points";
+function App() {
+  return (
+    <div className="App">
+      <h1 className="Jeopardy"> Welcome to Jeopardy!</h1>
+      <Points /> <br />
+      <Jeopardy />
+    </div>
+  );
+}
+
+export default App;

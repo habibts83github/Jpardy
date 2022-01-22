@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+html {
+  background-color: rgb(27, 133, 204);
+}
+
+.Category {
+  font-size: large;
+}
+
+.GameShow-Container {
+  font-size: large;
+}
+
+.Get-Answer-Button {
+  background-color: aqua;
+  font-size: x-large;
+}
+
+.Get-Question-Button {
+  background-color: lime;
+  font-size: x-large;
+}
+
+.Points-Container {
+  margin: 025px;
+  padding: 025px;
+  font-size: x-large;
+}
+
+.Jeopardy {
+  color: purple;
+  padding: 015px;
+}
+
+.Points-Buttons {
+  background-color: orange;
+  padding: 015px;
+  font-size: x-large;
+}
+
+.Question {
+  padding: 025px;
+  font-size: x-large;
+}
+
+.Value {
+  padding: 025px;
+  font-size: large;
+}
+
+.Answer {
+  font-size: x-large;
+}
